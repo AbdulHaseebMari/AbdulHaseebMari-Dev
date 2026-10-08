@@ -56,7 +56,7 @@ Technologies: C# .NET • WPF
 ## Connect With Me
 
 * **GitHub:** Abdul Haseeb Mari
-* **LinkedIn: www.linkedin.com/in/abdul-haseeb-mari-072171441
+* **Facebook: https://www.facebook.com/profile.php?id=61595003136061
 * **DEV.to: [(https://dev.to/abdulhaseebmari)](https://dev.to/abdulhaseebmari)
 
 ---
